@@ -1,0 +1,38 @@
+.container{
+    display: grid;
+    grid-template-rows: 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px;
+    justify-content: center;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+    
+}
+button{
+    border: 1px solid rgb(106, 109, 109);
+    color: transparent;
+}
+
+#replay{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+#buttonreplay{
+    color: rgb(49, 45, 121);
+    width: 200px;
+    height: 100px;
+    font-size: 30px;
+    background-color: gray;
+}
+
+#comment{
+    margin-top: 10px;
+    color: rgb(11, 137, 168);
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+
+}
