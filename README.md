@@ -1,2 +1,2 @@
-# Boom.-Game-
+# Boom Game
 Boombuster challenge 
